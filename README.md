@@ -4,7 +4,7 @@
 
 ## Wgrywasz na własną odpowiedzialność!
 
-Do wgrania oprograwania będzie potrzebny program [Arduino](https://www.arduino.cc/).
+Do wgrania oprograwania będzie potrzebny program [Arduino](https://www.arduino.cc/en/software).
 
 Postępuj zgodnie z instrukcją.
 
